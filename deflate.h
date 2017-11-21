@@ -37,6 +37,7 @@
 
 /* @(#) $Id$ */
 
+
 #ifndef DEFLATE_H
 #define DEFLATE_H
 #include "zlib.h"
