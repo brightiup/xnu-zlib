@@ -10,6 +10,8 @@ void xnu_zlib(uint8_t *data, uint64_t size) {
     strm.opaque = Z_NULL;
     strm.avail_in = 0;
     strm.next_in = 0;
+
+
 }
 
 int main() {
